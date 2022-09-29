@@ -1,0 +1,15 @@
+body{
+	background-image: url(TESLA.JPG) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.avtor{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.container{
+	max-width: 1000px;
+	margin: 0 auto;
+}
